@@ -1,16 +1,23 @@
-## Hi there 👋
+# Salut, moi c’est Keren 👋
 
-<!--
-**KerenDague/KerenDague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon espace GitHub !  
+Je suis étudiante en traitement automatique du langage à l’université Paris Nanterre, passionnée par les langues et l’informatique.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Mes stats GitHub
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KerenDague&show_icons=true&theme=transparent&count_private=true"/>
+
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KerenDague&layout=compact&theme=transparent&hide_progress=true"/>
+
+---
+
+## 📫 Me contacter
+
+🙋‍♀️ Vous pouvez me retrouver sur [LinkedIn](https://www.linkedin.com/in/ton-lien)
+
+---
+
+N’hésitez pas à explorer mes dépôts ou à me contacter 💬
+
