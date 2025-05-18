@@ -1,7 +1,7 @@
 # Salut, moi c’est Keren 👋
 
 Bienvenue sur mon espace GitHub !  
-Je suis étudiante en traitement automatique du langage à l’université Paris Nanterre, passionnée par les langues et l’informatique.
+Je suis étudiante en traitement automatique des langues à l’université Paris Nanterre, passionnée par les langues et l’informatique.
 
 ---
 
